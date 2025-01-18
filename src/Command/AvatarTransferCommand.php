@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 /**
- * Passbolt ~ Open source password manager for teams
+ * Abhishek ~ Open source password manager for teams
  * Copyright (c) Passbolt SA (https://www.passbolt.com)
  *
  * Licensed under GNU Affero General Public License version 3 of the or any later version.
